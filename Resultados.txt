@@ -1,0 +1,22 @@
+
+
+|Quick Sort|
+100 valores ordenados. Modo: Embaralhado
+Comparacoes: 25.3991%
+Trocas: 7.5%
+
+|Shell Sort|
+100 valores ordenados. Modo: Embaralhado
+Comparacoes: 24.3348%
+Trocas: 26.7647%
+
+|Merge Sort|
+100 valores ordenados. Modo: Embaralhado
+Comparacoes: 24.238%
+Trocas: 100%
+
+|Heap Sort|
+100 valores ordenados. Modo: Embaralhado
+Comparacoes: 100%
+Trocas: 43.3088%
+______________________________________________________________
